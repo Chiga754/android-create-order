@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cafe order</string>
+    <string name="logo_description">Логотип</string>
+    <string name="text_view_title">Добро пожаловать!</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login_str">Login</string>
+    <string name="login_warning">Поля не заполнены </string>
+</resources>
