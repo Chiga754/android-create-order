@@ -6,4 +6,26 @@
     <string name="hint_password">Password</string>
     <string name="btn_login_str">Login</string>
     <string name="login_warning">Поля не заполнены </string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="question">Что добавить в ваш чай?</string>
+    <string name="milk">Молоко</string>
+    <string name="lemon">Лимон</string>
+    <string name="sugar">Сахар</string>
+    <string name="create_order_title">Привет, Клиент! Что желаете?</string>
+    <string name="choose_type_drink">Выберете вид напитка</string>
+    <string name="btn_send_order">Кнопка отправить заказ</string>
+
+    <string-array name="options_of_coffee">
+        <item>Американо</item>
+        <item>Эспрессо</item>
+        <item>Латте</item>
+    </string-array>
+
+    <string-array name="options_of_tea">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+    </string-array>
+
 </resources>
